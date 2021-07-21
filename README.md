@@ -1,3 +1,3 @@
-👋 Hi, I’m Ludi
-👀 I’m interested in Frontend
-🌱 I’m currently learning  { HTML < CSS > JS ; }  
+- 👋 Hello, I’m Ludi!!!!!!
+- 👩🏻‍💻 I'm studying to be a front end developer;
+- 🌱 I’m currently learning  { HTML < CSS > JS ; }.
